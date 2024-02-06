@@ -1,0 +1,4 @@
+python-click-help-colors source: file-without-copyright-information
+python-click-help-colors source: no-debian-changes
+python-click-help-colors source: source-contains-prebuilt-windows-binary
+python-click-help-colors source: source-package-encodes-python-version
